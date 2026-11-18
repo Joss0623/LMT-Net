@@ -16,9 +16,9 @@ Use a language model to construct mechanistic relations and guide spatial attent
 
 ## Model overview
 
-![LMT-Net model overview](assets/model.svg)
+![LMT-Net model overview](assets/model.png)
 
-Model overview redrawn from the published method.
+Model architecture from the published paper (Figure 1). [Original figure](https://ars.els-cdn.com/content/image/1-s2.0-S1474034626006932-gr1_lrg.jpg).
 
 ## Research focus
 
