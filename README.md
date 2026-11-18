@@ -14,6 +14,12 @@ Advanced Engineering Informatics · 2026
 
 Use a language model to construct mechanistic relations and guide spatial attention for biochemical process forecasting.
 
+## Model overview
+
+![LMT-Net model overview](assets/model.svg)
+
+Model overview redrawn from the published method.
+
 ## Research focus
 
 - Mechanistic relations
