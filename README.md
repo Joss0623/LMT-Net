@@ -8,6 +8,8 @@ Advanced Engineering Informatics · 2026
 
 [Paper](https://doi.org/10.1016/j.aei.2026.105001)
 
+[Publisher / DOI](https://doi.org/10.1016/j.aei.2026.105001) · [BibTeX](https://joss0623.github.io/citations/lmt-net.bib)
+
 ## Overview
 
 Use a language model to construct mechanistic relations and guide spatial attention for biochemical process forecasting.
